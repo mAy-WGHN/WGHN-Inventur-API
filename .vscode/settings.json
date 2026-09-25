@@ -1,0 +1,13 @@
+{
+    "CRS.FileNamePattern": "<ObjectTypeShortPascalCase>.<ObjectId>.<ObjectNameShort>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectTypeShortPascalCase>.<ObjectId>.<ObjectNameShort>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectTypeShortPascalCase>.<ObjectId>.<ObjectNameShort>.al",
+    "CRS.ObjectNamePrefix": "WGHN ",
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${UICop}"
+    ],
+    "files.autoSave": "afterDelay",
+    "al.ruleSetPath": "_BC.ruleset.json"
+}

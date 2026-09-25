@@ -1,0 +1,42 @@
+{
+  "id": "66cfd398-f4da-4963-8f9b-c1ada98c7753",
+  "name": "WGHN Inventur API",
+  "publisher": "MAy",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "publisher": "LS Retail",
+      "name": "LS Central",
+      "version": "27.0.0.0"
+    },
+    {
+      "id": "366ebef8-b7a5-440e-b781-1474f172bb5a",
+      "publisher": "JM IT",
+      "name": "WGHN",
+      "version": "27.0.0.103"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "from": 50400,
+      "to": 50499
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0"
+}

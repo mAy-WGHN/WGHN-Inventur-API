@@ -1,0 +1,14 @@
+# Build output
+/*.app
+.output/
+.snapshots/
+
+# Symbols (downloaded per environment)
+/.alpackages/
+
+# Per-developer / per-environment VS Code files
+.vscode/launch.json
+.vscode/rad.json
+
+# Generated translation file (TranslationFile feature is off)
+Translations/*.g.xlf

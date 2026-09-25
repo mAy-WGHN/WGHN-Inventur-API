@@ -1,0 +1,22 @@
+{
+    "name": "BC",
+    "description": "WGHN Inventur API Ruleset (uebernommen aus WGHN, Default-Severities).",
+    "rules":
+    [
+        {
+            "id": "AA0214",
+            "action": "None",
+            "justification": "Bug: Not possible to solve"
+        },
+        {
+            "id": "AA0215",
+            "action": "None",
+            "justification": "Enable DRS Object Name"
+        },
+        {
+            "id": "AA0072",
+            "action": "None",
+            "justification": "Enable DRS Object Name"
+        }
+    ]
+}
